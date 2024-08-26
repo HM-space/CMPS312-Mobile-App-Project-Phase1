@@ -1,0 +1,58 @@
+[
+  {
+    "firstName": "Homer",
+    "lastName": "Simpson",
+    "email": "t1@test.com",
+    "password": "pass123",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+    "role": "Teacher"
+  },
+  {
+    "firstName": "Donald",
+    "lastName": "Duck",
+    "email": "t2@test.com",
+    "password": "pass123",
+    "photoUri": "https://i.pinimg.com/originals/b4/b2/a5/b4b2a5b265a80a45e275d9066d790743.png",
+    "role": "Teacher"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Cat",
+    "email": "t3@test.com",
+    "password": "pass123",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/en/f/f6/Tom_Tom_and_Jerry.png",
+    "role": "Teacher"
+  },
+  {
+    "firstName": "Sponge",
+    "lastName": "Bob",
+    "email": "s1@test.com",
+    "password": "pass123",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/440px-SpongeBob_SquarePants_character.svg.png",
+    "role": "Student"
+  },
+  {
+    "firstName": "Bart",
+    "lastName": "Simpson",
+    "email": "s2@test.com",
+    "password": "pass123",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+    "role": "Student"
+  },
+  {
+    "firstName": "Bugs",
+    "lastName": "Bunny",
+    "email": "s3@test.com",
+    "password": "pass123",
+    "photoUri": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Bugs_Bunny.svg/360px-Bugs_Bunny.svg.png",
+    "role": "Student"
+  },
+  {
+    "firstName": "Conan",
+    "lastName": "Edogawa",
+    "email": "s4@test.com",
+    "password": "pass123",
+    "photoUri": "https://static.tvtropes.org/pmwiki/pub/images/edogawaconan.png",
+    "role": "Student"
+  }
+]
