@@ -1,1 +1,1 @@
-# CMPS312-Mobile-App-Project-Phase1
+# CMPS312 Mobile App Project Phase1
